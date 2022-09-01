@@ -32,7 +32,7 @@
 					"\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
 			
 					"\t\t<!-- styles -->",
-					"\t\t<link rel=\"stylesheet\" href=\"style/style.css\" type=\"text/css\">",
+					"\t\t<link rel=\"stylesheet\" href=\"styles/style.css\" type=\"text/css\">",
 			
 					"\t\t<!-- icons -->",
 					"\t\t<link rel=\"icon\" href=\"favicon.png\"> <!--32х32-->",
